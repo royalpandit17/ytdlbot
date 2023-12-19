@@ -27,3 +27,5 @@ mnemonic==0.20
 qrcode==7.4.2
 blinker==1.7.0
 flask===3.0.0
+gunicorn==21.2.0
+aiohttp==3.9.1
